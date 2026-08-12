@@ -33,9 +33,7 @@ VerifIntern is built using a modern, robust, and scalable tech stack:
 - **Docker**: Containerization for consistent environments across development and production.
 - **Google Cloud Run**: Serverless execution environment for scalable deployments.
 
-## Links
-- **Live Application**: [VerifIntern Live App](https://verifintern-solo-27q37daoma-el.a.run.app/)
-- **GitHub Repository**: [VerifIntern GitHub](https://github.com/prathameshsail72-hue/VerifIntern)
+
 
 ## Contributing
 We welcome contributions to make VerifIntern better! If you'd like to contribute, please follow these steps:
@@ -51,4 +49,4 @@ Please ensure your code follows the existing style and all tests pass before sub
 This project is licensed under the MIT License. You are free to use, modify, and distribute this software as per the license terms.
 
 ---
-**Owner**: Prathamesh Sail
+
